@@ -1,0 +1,55 @@
+.header{
+	min-height: 150px;
+	background-color: #264653;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.section{
+	float: left;
+	background-color: red;
+	min-height: 250px;
+	width: 25%
+
+}
+
+.one{
+	background-color: #2A9D8F;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
+
+.two{
+	background-color: #E9C46A;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
+
+.three{
+	background-color: #F4A261;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
+
+.four{
+	background-color: #544327;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
+
+.footer{
+	min-height: 150px;
+	background-color: #6282f5;
+	font-family: arial;
+	font-size: 30px;
+	color: white;
+}
